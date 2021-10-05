@@ -5,6 +5,7 @@
 // Authors:
 // Peter Polidoro peter@polidoro.io
 // ----------------------------------------------------------------------------
+#include <arduino.h>
 #ifndef AT42QT_H
 #define AT42QT_H
 #include <Wire.h>
